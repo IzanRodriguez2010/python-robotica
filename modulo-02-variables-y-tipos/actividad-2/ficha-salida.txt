@@ -1,0 +1,5 @@
+nombre Robocop <class 'str'>
+ruedas 28 <class 'int'>
+diametro_ruedas (3, 16) <class 'tuple'>
+bateria 100 <class 'int'>
+encendido True <class 'bool'>

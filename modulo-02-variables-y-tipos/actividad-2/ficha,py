@@ -1,0 +1,10 @@
+nombre = "Robocop"
+ruedas = 28
+diametro_rueda = 3,16
+bateria = 100
+encendido = True
+print("nombre",nombre,type(nombre))
+print("ruedas",ruedas,type(ruedas))
+print("diametro_ruedas",diametro_rueda,type(diametro_rueda))
+print("bateria",bateria,type(bateria))
+print("encendido",encendido,type(encendido))
