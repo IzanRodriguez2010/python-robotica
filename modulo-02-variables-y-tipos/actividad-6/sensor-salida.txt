@@ -1,0 +1,4 @@
+NOMBRE_SENSOR distancia <class 'str'>
+UNIDAD 8 cm <class 'str'>
+distancia 45 <class 'float'>
+bateria 80 <class 'int'>
