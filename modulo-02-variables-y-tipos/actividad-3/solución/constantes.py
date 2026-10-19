@@ -8,3 +8,5 @@ print(PASOS_POR_VUELTA)
 nombre_robot = "Robocop"
 
 print(nombre_robot)
+PI=5000
+print(PI)
