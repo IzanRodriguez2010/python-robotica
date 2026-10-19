@@ -1,0 +1,5 @@
+nombre <class 'str'> <class 'type'>
+anio <class 'int'> <class 'type'>
+altura_cm <class 'float'> <class 'type'>
+autonomo <class 'bool'> <class 'type'>
+VERSION_ESPERADA v1.0 <class 'str'>
