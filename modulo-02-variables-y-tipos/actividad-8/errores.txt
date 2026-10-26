@@ -1,0 +1,7 @@
+ERROR 1: NameError: name 'Alex' is not defined
+El error es que no define el nombre Alex como un nombre.
+
+ERROR 2: NameError: name 'altura' is not defined. Did you mean: 'altura_cm'?
+El error de este ejercicio es que la altura se ha puesto mal en el print.
+
+ERROR 3:
